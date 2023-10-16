@@ -1,7 +1,7 @@
-algoritmo "Hello World! - Olá Mundo!"
+algoritmo "Hello World! - Olá Mundo!" // titulo do projeto
 
-inicio
+inicio // função
 
     escreva ("Olá mundo!")
 
-fimalgoritmo
+fimalgoritmo // determina o fim do projeto
